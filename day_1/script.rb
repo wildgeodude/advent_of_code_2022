@@ -1,4 +1,5 @@
 # part one
+#
 
 def inventory_greater_than_zero?(inventory)
 	inventory.sum > 0
